@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yatharth
-- 👀 I’m interested in new and advanced technologies
+- 👀 I’m a tech enthusiast who loves to explore new technologies
 - 🌱 I’m currently learning Machine Learning and Web Development
-- I’m looking to collaborate on any Machine Learning project
+
 
 
 <!---
